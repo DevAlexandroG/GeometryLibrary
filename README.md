@@ -1,7 +1,10 @@
 # GeometryLibrary
 Test task in the company
+
 Task:
+
 Write a C# library for external clients that can calculate the area of a circle based on its radius and the area of a triangle based on its three sides.
+
 Additionally, the following criteria will be evaluated:
   1) Unit tests
   2) Ease of adding other shapes
